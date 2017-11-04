@@ -37,8 +37,8 @@ List of Programs:-
 
 (12) Permut : Generate all permutations of inputted characters in C++.
 
-(13) Calculator : A simple calculator in C++ which can solve expressions containing brackets and show step by step calculation
-.
+(13) Calculator : A simple calculator in C++ which can solve expressions containing brackets and show step by step calculation.
+
 (14) Chaos to Order : A simulation of mutating polygon's - From Chaos to Order
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
